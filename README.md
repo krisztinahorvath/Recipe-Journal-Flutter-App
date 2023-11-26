@@ -1,4 +1,4 @@
-# Recipe-Journal-Flutter-App
+# Recipe-Journal-Mobile-App
 
 ## 1. Short Description
 
